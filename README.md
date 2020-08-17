@@ -1,18 +1,18 @@
 # gTrans
 用 cli 的方式來查字典。
 
-每次要查英文字的時候，都是用google translate。
-可是切換瀏覽器tab的方式讓我用得不開心
-就想到某些console可以訂選在畫面最上面(always-on-top), 像是 cmder
-所以就研究了一下這東西
-[googletrans](https://pypi.org/project/googletrans/)
-然後寫了一個超級簡易的function
+每次要查英文字的時候，都是用google translate。  
+可是切換瀏覽器tab的方式讓我用得不開心  
+就想到某些console可以訂選在畫面最上面(always-on-top), 像是 cmder  
+所以就研究了一下這東西  
+[googletrans](https://pypi.org/project/googletrans/)  
+然後寫了一個超級簡易的function  
 
 eng->zh-tw dictionary
 
 ## Environment
-python3.6
-pip3
+python3.6  
+pip3  
 googletrans
 
 ## Installation
